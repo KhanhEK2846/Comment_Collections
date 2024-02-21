@@ -1,11 +1,11 @@
-//  Created by Nguyen Quoc Viet on 20/09/2021.
+//  
 //
 //^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 //
 //                _ooOoo_                       NAM MÔ A DI ĐÀ PHẬT !
 //               o8888888o
-//               88" . "88      Thí chủ con tên là Nguyễn Quốc Việt, dương lịch ba mươi tháng tám năm 1998
-//               (| -_- |)      Ngụ tại số nhà 23B/17 Nguyễn Văn Trỗi, Mộ Lao, Hà Nội, Việt Nam
+//               88" . "88      Thí chủ con tên là $NAME, dương lịch ba mươi tháng tám năm 1998
+//               (| -_- |)      Ngụ tại số nhà $Adress
 //                O\ = /O
 //            ____/`---'\____         Con lạy chín phương trời, con lạy mười phương đất
 //            .' \\| |// `.             Chư Phật mười phương, mười phương chư Phật
